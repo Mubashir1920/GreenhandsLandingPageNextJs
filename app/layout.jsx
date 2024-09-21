@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "GPO LANDSCAPERS - YOUR PARTNER",
+  title: "Green Thumb Landscaping",
   description: "Providers of Goodness",
 };
 
